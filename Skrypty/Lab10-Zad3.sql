@@ -1,8 +1,8 @@
 create table zad3 (
     customerNumber int,
     employeeNumber int,
-    lastName varchar,
     firstName varchar,
+    lastName varchar,
     extension varchar,
     email varchar,
     reportsTo int,
@@ -16,5 +16,25 @@ create table zad3 (
     country varchar,
     postalCode varchar,
     territory varchar,
-    primary key ( (customerNumber), employeeNumber )
-) with clustering order by (employeeNumber DESC );
+    primary key ( (customerNumber))
+);
+
+-- select
+--     customerNumber,
+--     addressLine1,
+--     addressLine2,
+--     city,
+--     country,
+--     email,
+--     employeeNumber,
+--     extension,
+--     firstName,
+--     jobTitle,
+--     lastName,
+--     officeCode,
+--     phone,
+--     postalCode,
+--     reportsTo,
+--     state,
+--     territory
+-- from clientView2;
