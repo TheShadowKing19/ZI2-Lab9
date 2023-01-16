@@ -1,0 +1,20 @@
+create table zad3 (
+    customerNumber int,
+    employeeNumber int,
+    lastName varchar,
+    firstName varchar,
+    extension varchar,
+    email varchar,
+    reportsTo int,
+    jobTitle varchar,
+    officeCode int,
+    city varchar,
+    phone varchar,
+    addressLine1 varchar,
+    addressLine2 varchar,
+    state varchar,
+    country varchar,
+    postalCode varchar,
+    territory varchar,
+    primary key ( (customerNumber), employeeNumber )
+) with clustering order by (employeeNumber DESC );
