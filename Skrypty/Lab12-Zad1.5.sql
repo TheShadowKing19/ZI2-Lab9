@@ -1,0 +1,1 @@
+update zad3 set hobbies = hobbies - {'running'} where customernumber = 350;

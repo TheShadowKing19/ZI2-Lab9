@@ -1,0 +1,1 @@
+create index phone_index on zad3(keys(telefony))

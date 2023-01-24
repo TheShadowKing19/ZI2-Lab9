@@ -4,7 +4,13 @@
     <file url="file://$PROJECT_DIR$/Skrypty/Lab10-Zad1.sql" dialect="CassandraQL" />
     <file url="file://$PROJECT_DIR$/Skrypty/Lab10-Zad2.sql" dialect="CassandraQL" />
     <file url="file://$PROJECT_DIR$/Skrypty/Lab10-Zad3.sql" dialect="CassandraQL" />
+    <file url="file://$PROJECT_DIR$/Skrypty/Lab11-Zad1.sql" dialect="CassandraQL" />
+    <file url="file://$PROJECT_DIR$/Skrypty/Lab11-Zad2.sql" dialect="CassandraQL" />
+    <file url="file://$PROJECT_DIR$/Skrypty/Lab11-Zad3.sql" dialect="CassandraQL" />
+    <file url="file://$PROJECT_DIR$/Skrypty/Lab11-Zad5.sql" dialect="CassandraQL" />
+    <file url="file://$PROJECT_DIR$/Skrypty/Lab11-Zad6.sql" dialect="CassandraQL" />
+    <file url="file://$PROJECT_DIR$/Skrypty/Lab11-Zad7.sql" dialect="CassandraQL" />
     <file url="file://$PROJECT_DIR$/Skrypty/Lab9-Zad1.sql" dialect="GenericSQL" />
-    <file url="PROJECT" dialect="MariaDB" />
+    <file url="PROJECT" dialect="CassandraQL" />
   </component>
 </project>

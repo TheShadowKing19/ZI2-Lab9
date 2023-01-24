@@ -1,0 +1,1 @@
+alter table zad3 add telefony map<text, text>;
